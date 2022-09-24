@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Niharika Sharma.
 - 👀 I’m interested in learning new things in an exciting way rather than going through the old school method.
-- 🌱 I’m currently learning Java, Kotlin and CSS.
+- 🌱 I’m currently learning Java, Python, HTML and CSS.
 
 
 <!---
